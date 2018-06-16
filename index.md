@@ -8,7 +8,7 @@ layout: default
 
 <br>
 
-[LA TIMES](https://www.latimes.com/)
+[LINKEDIN](www.linkedin.com/in/jtaohexi)
 
 <br>
 
