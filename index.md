@@ -2,11 +2,11 @@
 layout: default
 ---
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+[Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 <br>
 
-{% include 02-image.md %}
+[LA TIMES](https://www.latimes.com/)
 
 <br>
 
