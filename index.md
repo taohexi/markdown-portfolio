@@ -9,7 +9,7 @@ layout: default
 
 <br>
 
-[LINKEDIN](www.linkedin.com/in/jtaohexi)
+[LINKEDIN](www.linkedin.com/in/taohexi)
 
 <br>
 
